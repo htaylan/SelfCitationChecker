@@ -1,3 +1,5 @@
+Can you make this code OOP and professional. I am using functions defined in the previous codes
+
 prof_names = []
 postdoc_names = []
 phd_names = []
